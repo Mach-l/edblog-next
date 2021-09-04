@@ -9,9 +9,8 @@ export default function Home() {
 				<title>Home | {process.env.SITE_NAME}</title>
 			</Head>
 			<main>
-				<h1>EDblog</h1>
-				<p>Bienvenidos a EDblog by EDteam</p>
-				<p>{process.env.API_BLOG}</p>
+				<h1>Contacto</h1>
+				<p>Contacta con nosotros</p>
 			</main>
 		</div>
 	);
